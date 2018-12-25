@@ -1,5 +1,6 @@
-Contact Manager App
-Simple CRUD (Create, Read, Update, Delete) app showing a list of user contact information. This app was created using React, Redux, and the JONPlaceholder API.
+# Contact Manager App
+Simple CRUD (Create, Read, Update, Delete) app showing a list if user contact information. This app was created using React, Redux, and the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/).
+
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
